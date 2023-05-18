@@ -19,10 +19,7 @@
 * 📫 Come contattarmi:discord Webby#2329
 </p>
 <p align="center">
-* 😄 Pronomi:...
-</p>
-<p align="center">
-* ⚡ Curiosità:... 
+* ⚡ Curiosità:... mi piace giocare hai videogames
 </p>
 
 
