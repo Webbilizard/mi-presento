@@ -4,16 +4,14 @@
 * 🔭 Attualmente sto lavorando presso INFN Frascati
 </p>
 <p align="center">
-* 🌱 Sto imparando a programmare con python
+* 🌱 Sto imparando a programmare con Python
 </p>
 <p align="center">
-* 👯 Sono interessato a collaborare su...
 </p>
 <p align="center">
 * 🤔 Sto cercando aiuto con...
 </p>
 <p align="center">
-* 💬 Chiedimi qualcosa su...
 </p>
 <p align="center">
 * 📫 Come contattarmi:discord Webby#2329
