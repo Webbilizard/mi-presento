@@ -9,7 +9,7 @@
 <p align="center">
 </p>
 <p align="center">
-* 🤔 Sto cercando aiuto con...
+*  attualmente sto aiutando per un modpack
 </p>
 <p align="center">
 </p>
@@ -22,3 +22,5 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2BF704&width=435&lines=%22mi+piace+tanto+giocare+hai+videogiochi%22)](https://git.io/typing-svg)
+
+
