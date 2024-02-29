@@ -14,7 +14,7 @@
 <p align="center">
 </p>
 <p align="center">
-* 📫 Come contattarmi:discord Webby#2329
+* 📫 Come contattarmi:discord Webby2329
 </p>
 <p align="center">
 * ⚡ Curiosità:... mi piace giocare hai videogames
