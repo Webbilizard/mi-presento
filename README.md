@@ -1,7 +1,7 @@
 <h2 align="center">👋 Ciao a tutti</h2>
 
 <p align="center">
-* 🔭 Attualmente sto lavorando presso INFN Frascati
+* 🔭 Attualmente sto lavorando presso Thales Alenia Space Roma
 </p>
 <p align="center">
 * 🌱 Sto imparando a programmare con Python
