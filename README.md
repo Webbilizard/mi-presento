@@ -17,7 +17,7 @@
 * 📫 Come contattarmi:discord Webby2329
 </p>
 <p align="center">
-* ⚡ Curiosità:... mi piace giocare hai videogames
+* ⚡ Curiosità:... mi piace giocare ai videogames
 </p>
 <p align="center">
 
